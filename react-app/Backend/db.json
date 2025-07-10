@@ -1,0 +1,15 @@
+{
+  "content": [
+    {
+      "id": "e16e",
+      "name": "moin khan ",
+      "salary": "5000",
+      "company": "shadab"
+    },
+    {
+      "id": "5fd5",
+      "email": "shadab123@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
